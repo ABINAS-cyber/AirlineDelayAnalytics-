@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+logs/
+output/
+results/
+
+# Data files (keep raw data out of git, use storage instead)
+data/
+*.csv
+*.tsv
+*.json
+
+# Model artifacts
+*.h5
+*.pkl
+*.joblib
+*.model
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/

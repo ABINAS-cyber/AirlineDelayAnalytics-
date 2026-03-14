@@ -1,0 +1,6 @@
+*flights_sampled.csv filter=lfs diff=lfs merge=lfs -text
+flights_sampled.csv filter=lfs diff=lfs merge=lfs -text
+DataPreparation.ipynb filter=lfs diff=lfs merge=lfs -text
+archive.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
